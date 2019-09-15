@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wisata Jambi</string>
+    <string name="sample_label_title">Title</string>
+    <string name="sample_label_desc">Description</string>
+    <string name="item_logo">Item logo</string>
+
+    <string name="action_share">Detail</string>
+    <string name="action_explore">Explore</string>
+    <string name="lorem_short_length">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales tincidunt dui,
+    ultrices tempor dolor maximus a.</string>
+
+</resources>
