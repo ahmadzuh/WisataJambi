@@ -7,7 +7,7 @@ Sebelum Anda Melanjutkan
 
 Deskripsi
 ---------
-Wisata Jambi adalah aplikasi Aplikasi Wisata Lokal Kota Jambi yang di buat sebagai Tugas Submission Belajar Membuat Aplikasi Android untuk Pemula by Dicoding.com
+Wisata Jambi adalah aplikasi Wisata Lokal Kota Jambi yang di buat sebagai Tugas Submission Belajar Membuat Aplikasi Android untuk Pemula by Dicoding.com, data yang digunakan dalam membuat aplikasi ini berupa data lokal. sehingga aplikasi ini dapat digunakan secara offline
 
 
 Screenshots
